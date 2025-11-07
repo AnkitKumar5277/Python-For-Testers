@@ -1,7 +1,4 @@
 
-Perfect 👍 John — you’ve listed all the **Level 2 Python basics** very well!
-Now let’s make this **super beginner-friendly** by adding **short, clear Python code examples** for each topic.
-
 ---
 
 ## 🧩 LEVEL 2 — Python Basics with Examples
@@ -242,6 +239,3 @@ print("Next year you will be:", age + 1)
 ```
 
 ---
-
-Would you like me to make this into a **printable PDF “Python Level 2 Notes for Beginners (with code examples)”** — nicely formatted for study and revision?
-I can generate and share it instantly.
